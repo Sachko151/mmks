@@ -1,6 +1,6 @@
 .venv is excluded (otherwise repo will get quite large)
 
-pip install mediapipe==0.10.9 opencv-python numpy pandas scikit-learn
+pip install mediapipe==0.10.13 opencv-python numpy pandas scikit-learn
 
 excecute record_dataset.py (press S to save gestures + ESC to exit)
 
